@@ -2,7 +2,7 @@
 
 # Hello World! I'm Nađa Jakšić! 🍒🌸
 
-I love programming websites and am currently diving into the world of React, Tailwind CSS, and Express backend. I'm super excited to be working on a project called CineMind with [@MarkoGordic](https://github.com/MarkoGordic).
+I love programming websites and am currently diving into the world of React, Tailwind CSS, and Express backend. I'm super excited to be working on a project called CineMind.
 
 ## About Me 🌺
 

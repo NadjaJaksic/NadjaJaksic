@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="/assets/armin.gif" style="height:350px"></div>
+<p align="center"><img src="/assets/armin.gif" style="height:350px"></p>
 
 # Hello World! I'm Nađa Jakšić! 🍒🌸
 

@@ -6,11 +6,11 @@ I love programming websites and am currently diving into the world of React, Tai
 
 ## About Me 🌺
 
-Hi there! I'm Nađa Jakšić, and I was born in Jagodina, in the Pomoravlje District of Serbia. I'm a huge fan of anime, and my favorite character is Armin from Attack on Titan (AOT). When I'm not studying or coding, you can find me jamming out to my favorite tunes. 🎶
+Hi there! I'm Nađa Jakšić, and I was born in Jagodina, in the Pomoravlje District of Serbia. When I'm not studying or coding, you can find me jamming out to my favorite tunes. 🎶
 
 - 🎓 I'm a student at the Faculty of Technical Sciences @ University of Novi Sad
 - 🌸 Born and raised in Jagodina, Serbia
-- 🎥 Anime enthusiast with a special love for Attack on Titan
+- 🎥 Anime enthusiast
 - 🎶 Music lover
 - 💻 Passionate about web development
 

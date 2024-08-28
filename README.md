@@ -2,7 +2,7 @@
 
 # Hello World! I'm Nađa Jakšić! 🍒🌸
 
-I love programming websites and am currently diving into the world of React, Tailwind CSS, and Express backend. I'm super excited to be working on a project called CineMind.
+I love programming websites and am currently diving into the world of React, Tailwind CSS, and Express backend.
 
 ## About Me 🌺
 
@@ -10,8 +10,6 @@ Hi there! I'm Nađa Jakšić, and I was born in Jagodina, in the Pomoravlje Dist
 
 - 🎓 I'm a student at the Faculty of Technical Sciences @ University of Novi Sad
 - 🌸 Born and raised in Jagodina, Serbia
-- 🎥 Anime enthusiast
-- 🎶 Music lover
 - 💻 Passionate about web development
 
 ## Programming Languages
@@ -22,8 +20,3 @@ Hi there! I'm Nađa Jakšić, and I was born in Jagodina, in the Pomoravlje Dist
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Current Projects 🚀
-
-- 🎬 **CineMind**: A collaborative project with [@MarkoGordic](https://github.com/MarkoGordic) to create a comprehensive platform for movie/series/anime enthusiasts
-
-Let's connect and create something awesome together! ✨
